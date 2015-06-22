@@ -1,0 +1,15 @@
+/*!
+ * Brackets PhpWatch Extension
+ *
+ * @author Anthony vick
+ * @license http://opensource.org/licenses/MIT
+ */
+
+/* Toolbar icon */
+#phpviewlog-preview-icon {
+	background-image: url(images/phpviewlog-sprite.svg);
+}
+
+#phpviewlog-preview-icon.active {
+	background-position: 0 -24px !important;
+}

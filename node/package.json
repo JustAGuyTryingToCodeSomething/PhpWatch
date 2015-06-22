@@ -1,0 +1,19 @@
+{
+  "name": "PHPWatch",
+  "version": "1.0.0",
+  "description": "PHP Plugin for brackets",
+  "main": "main.js",
+  "dependencies": {
+	"tail": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+	"php",
+	"brackets"
+  ],
+  "author": "Anthony Vick",
+  "license": "http://opensource.org/licenses/MIT"
+}
